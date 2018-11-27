@@ -1,11 +1,11 @@
 # Site settings
 title: BigCola Blog
 SEOTitle: 大可乐的博客 | BigCola Blog
-header-img: img/home-bg.jpg
+header-img: img/home-bg.jpeg
 email: hui3.18@qq.com
-description: "关于程序与设计、黑客与画家 | 憧憬，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Longing憧憬 的个人博客，与你一起发现更大的世界。"
+description: "关于程序与设计、黑客与画家 | 大可乐，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @BigCola大可乐 的个人博客，与你一起发现更大的世界。"
 keyword: "大可乐, BigCola大可乐, BigCola, 鬼栈, BigColapro, @BigColapro, 大可乐的博客, BigCola Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://testsling.github.io"              # your host, for absolute URL
+url: "https://BigCola8.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 RSS: false
 #weibo_username:     huxpro
 #zhihu_username:     huxpro
-github_username:    testsling
+github_username:    BigCola8
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -103,9 +103,9 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
+         title: "憧憬的个人博客",
+         href: "https://testsling.github.io/"
+     },{
         title: "百度",
         href: "https://www.baidu.com/"
     }
