@@ -3,7 +3,7 @@ layout:     post
 title:      "Jekyll快速入门"
 subtitle:   "使用jekyll搭建一个博客需要知道的东西"
 date:       2018-11-02 14:00:00
-author:     "憧憬"
+author:     "大可乐"
 header-img: "img/post-bg-alibaba.jpg"
 header-mask: 0.3
 catalog:    true

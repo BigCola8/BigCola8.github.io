@@ -3,7 +3,7 @@ layout:     post
 title:      "ubuntu 配置shadowsocks 实现翻墙"
 subtitle:   "shadowsocks"
 date:       2018-11-14 20:00:00
-author:     "憧憬"
+author:     "大可乐"
 header-img: "img/home-bg-o.jpg"
 header-mask: 0.3
 catalog:    true

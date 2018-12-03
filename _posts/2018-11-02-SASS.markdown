@@ -3,7 +3,7 @@ layout:     post
 title:      "SASS简单入门"
 subtitle:   "原来还可以这么写CSS"
 date:       2018-11-02 14:00:00
-author:     "憧憬"
+author:     "大可乐"
 header-img: "img/post-bg-re-vs-ng2.jpg"
 header-mask: 0.3
 catalog:    true
