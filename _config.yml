@@ -30,7 +30,7 @@ paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
+#timezone: CN
 
 
 
@@ -67,7 +67,7 @@ netease_comment: false
 
 
 # Analytics settings
-# Baidu Analytics 
+# Baidu Analytics
 # ba_track_id: [your track id]
 
 # Google Analytics
@@ -103,8 +103,8 @@ page-mathjax: false
 # Friends
 friends: [
     {
-         title: "憧憬的个人博客",
-         href: "https://testsling.github.io/"
+         title: "网易云",
+         href: "https://music.163.com/#/user/home?id=265853517"
      },{
         title: "百度",
         href: "https://www.baidu.com/"
