@@ -4,11 +4,14 @@ title:      "thinkphp连接docker容器内的mysql"
 subtitle:   "thinkphp连接docker容器内的mysql"
 date:       2018-12-16 15:40:00
 author:     "大可乐"
-header-img: "img/post-php-bg.jpg"
+header-img: "img/post-docker-bg.png"
 header-mask: 0.3
 catalog:    true
 tags:
-  - thinkphp,php,mysql,docker
+  - thinkphp
+  - php
+  - mysql
+  - docker
 ---
 
 # thinkphp连接docker容器内的mysql
